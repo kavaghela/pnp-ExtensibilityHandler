@@ -62,7 +62,7 @@ namespace CreateSiteFromTemplate
                     {
 
                         var provisioningTemplateInformation = new ProvisioningTemplateApplyingInformation()
-                        {                                                      
+                        {
                             MessagesDelegate = (message, ProvisioningMessageType) =>
                             {
                                 Console.WriteLine($"Provisioning Messages: {message}. Type: {ProvisioningMessageType}");

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://kvspdev.sharepoint.com/_vti_bin/Permissions.asmx?wsdl" docRef="https://kvspdev.sharepoint.com/_vti_bin/Permissions.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://kvspdev.sharepoint.com/_vti_bin/Permissions.asmx" xmlns:q1="http://schemas.microsoft.com/sharepoint/soap/directory/" binding="q1:PermissionsSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://kvspdev.sharepoint.com/_vti_bin/Permissions.asmx" xmlns:q2="http://schemas.microsoft.com/sharepoint/soap/directory/" binding="q2:PermissionsSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
